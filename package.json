@@ -1,9 +1,9 @@
 {
-  "name": "TOOLS TIJI",
+  "name": "Hassan",
   "version": "5.0.1.19",
-  "description": "EL TIJI",
+  "description": "Hassan",
   "main": "index.js",
-  "author": "ADITTEJI",
+  "author": "Hassan",
   "license": "MIT",
   "scripts": {
     "start": "node index.js"
